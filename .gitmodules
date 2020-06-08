@@ -1,0 +1,3 @@
+[submodule "themes/swift"]
+	path = themes/swift
+	url = ssh://git@github.com/onweru/hugo-swift-theme.git
