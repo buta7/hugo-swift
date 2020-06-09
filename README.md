@@ -28,7 +28,7 @@ git submodule add https://github.com/onweru/hugo-swift-theme.git themes/swift
 ```
 
 サイト設定
-
+x
 ```shell
 cp -pr themes/hugo-swift-theme/exampleSite/{content,data,config.toml} .
 ```
