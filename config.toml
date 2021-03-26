@@ -1,4 +1,4 @@
-baseurl = "https://higebobo.github.io/hugo-swift/"  # Include trailing slash
+baseurl = "https://buta7.github.io/hugo-swift/"  # Include trailing slash
 languageCode = "en-us"
 defaultContentLanguage = "ja"
 title = "Hugo Themes"
